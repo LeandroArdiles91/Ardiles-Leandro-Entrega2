@@ -1,0 +1,36 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.insertSpaces": false,
+    "editor.tabSize": 2,
+    "editor.fontSize": 13,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "args": ["-l"],
+            "icon": "terminal-bash"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "args": ["-l"],
+            "icon": "terminal-powershell"
+        }
+    },
+    "debug.console.fontSize": 13,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableCommitSigning": true,
+    "markdown.preview.fontSize": 13,
+    "[markdown]": {
+        "editor.wordWrap": "on"
+    },
+    "markdown.styles": [
+        ".vscode/extensions.css"
+    ],
+    "hediet.vscode-drawio.theme": "Kennedy"
+}

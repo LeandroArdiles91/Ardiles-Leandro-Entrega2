@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.gitignore                      export-ignore
+.gitattributes                  export-ignore
+.github/                        export-ignore
+README.md                       export-ignore
+.vscode/                        export-ignore
+.devcontainer/                  export-ignore
+*.cs                            linguist-language=csharp

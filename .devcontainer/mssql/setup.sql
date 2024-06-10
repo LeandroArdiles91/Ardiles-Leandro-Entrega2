@@ -1,0 +1,2 @@
+CREATE DATABASE Desafio2;
+GO
