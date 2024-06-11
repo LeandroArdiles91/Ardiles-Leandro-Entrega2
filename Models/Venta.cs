@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Christian_Grimberg_58425_Desafio_2;
+namespace Leandro_Ardiles_Desafio_2;
 
 public class Venta
 {

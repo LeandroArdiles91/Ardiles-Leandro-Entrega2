@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 
-namespace Christian_Grimberg_58425_Desafio_2;
+namespace Leandro_Ardiles_Desafio_2;
 
 internal static class ProductoVendidoData
 {
